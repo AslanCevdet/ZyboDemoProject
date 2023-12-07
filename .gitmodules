@@ -1,0 +1,9 @@
+[submodule "Zybo_Demo/externals/Kernel"]
+	path = Zybo_Demo/externals/Kernel
+	url = https://github.com/AslanCevdet/Kernel
+[submodule "Zybo_Demo/externals/TCP"]
+	path = Zybo_Demo/externals/TCP
+	url = https://github.com/AslanCevdet/TCP
+[submodule "Zybo_Demo/externals/CevdetLib"]
+	path = Zybo_Demo/externals/CevdetLib
+	url = https://github.com/AslanCevdet/CevdetLib
